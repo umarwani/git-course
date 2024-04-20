@@ -1,1 +1,2 @@
 hello 3
+line 2 added
