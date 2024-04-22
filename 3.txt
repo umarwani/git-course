@@ -1,3 +1,4 @@
 hello 3
 line 2 added in master branch
 line 3 added by dev branch 
+line 4 added by dev branch
