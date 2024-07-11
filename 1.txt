@@ -1,1 +1,2 @@
 Hello world
+Remote file1: Line 2 added
